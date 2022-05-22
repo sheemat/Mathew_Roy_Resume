@@ -1,13 +1,13 @@
-# Mathew_Roy_Resume
+### Mathew_Roy_Resume
 
-### Summary
+## Summary
 
 I am an enterprise architect of the highest caliber with experience in many complex technologies.
 I have assisted several large enterprise customers over a span of 16 years in various capacities. Presently 
 with the advent of cloud technologies, I focus on multi-cloud architectures especially in Security, high availability 
 and databases. I strive to be a multi cloud architect with professional experience and certifications.
 
-###  Certifications
+##  Certifications
 - AWS Certified Solutions Architect - **Professional**
 - AWS Certified Solutions Architect -Associate(2016 onwards)
 - AWS Certified Specialist- Security
@@ -17,13 +17,13 @@ and databases. I strive to be a multi cloud architect with professional experien
 - Google Cloud **Professional Security** Engineer
 - (Working on Google Data and ML certifications)
 
-###  Oracle/Contract 05/2021- On Going
+##  Oracle/Contract 05/2021- On Going
 The effort is to launch an extremely secure private cloud hosted in a GovCloud region(s). This include 
 providing everything in private networks including container orchestration, compute instance as well as
 serverless services. Every aspect of traditional Cloud deloyment is being challenged with absolute commitment 
 to security.  
 
-###  Department of Energy/Contract 04/2021- On Going
+##  Department of Energy/Contract 04/2021- On Going
 I helped Department of Energy to do a Google Cloud Operationalization effort; Presently this involves
 - Addressing issues relevant to FEDRAMP certification
 - OneId integration(SAML/OpenID Connect Integration)
@@ -36,7 +36,7 @@ I helped Department of Energy to do a Google Cloud Operationalization effort; Pr
 - Kubernetes: GKE Public and Private Clusters , Binary Authorization and container
 - VPN and DX InterConnects
 
-###  KPMG Manager/Cloud Security Architect 11/2021 - 05/2021
+##  KPMG Manager/Cloud Security Architect 11/2021 - 05/2021
 
 I work with enterprise AWS,GCP and Azure customers , helping them to solve various security challenges. My portfolio involves the three major hyperscale cloud providers,Oracle Cloud, ServiceNow and SalesForce deployments. Most recently, I led a HITRUST/HIPAA assessment at Humana from AWS cloud focus. Our team analyzed a large enterprise scale AWS deployment with industry strength compliance and governance standards to understand the gaps in HITRUST/HIPAA coverage and suggested several recommendations.
 Some Cloud Technologies I have professionally worked on:
@@ -49,7 +49,7 @@ Some Cloud Technologies I have professionally worked on:
 - Terraform with AWS, Azure and GCP ;Terraform Integration with ServiceNow
 - Many others
 
-###  Oracle: Technical Architect 06/2006 - 11/2021
+##  Oracle: Technical Architect 06/2006 - 11/2021
 My experience in Oracle was diverse and intense. Working mostly on Executive Escalations, I have worked this a significant number of World's largest IT 
 installations.
 
@@ -78,11 +78,11 @@ other life cycle functions of the OIG12C product.
             
 I have worked on most other products in the IDM suite such as OIM/OAM 11G OIF 11G, OPAM, DIP , OAAM and OWSM.
 
-# Oracle FMW Integration Technologies
+### Oracle FMW Integration Technologies
 I am an expert in Oracle integration technologies such as SOA, OSB, MFT and ESS in 12C versions and below. I have also worked in Oracle API gateway, Integration cloud as well as Apiary. In various capacities, I have helped clients such as ServiceMaster Inc, AstraZeneca , Rogers Canada to design , architect and implement Oracle Products such as SOA Suite 10g,11g and 12c, OSB 12c and other weblogic based technologies. The engagement model depended on the client's needs but in most cases I would be the subject matter expert in the products involved, representing Oracle Corp. In most cases I will be instrumental in implementing complex product configurations where there is no established blueprint. 
-# Oracle Siebel CRM
+### Oracle Siebel CRM
 I have worked as one of the top experts in the world for many SIEBEL CRM technologies. I was part of an A team of Products experts inside Oracle in the SIEBEL CRM area. 
-# General Technologies
+### General Technologies
 Having worked in many aspects of an IT enterprise --including Solution Architect, DBA, Developer and a systems analyst, I have significant experience in tools of the trade. Moreover I am mature enough to understand which of these to use (or not use) in a given situation.
 These include
 - Oracle Database 7 to 12c, including extreme SQL tuning as well as DBA experience.
@@ -100,7 +100,7 @@ These include
 - AWS API Gateway, Serverless, AWS Directory
 - Big Data Processing using Apache Spark and Python
 
-# Some Notable Custmers include:
+### Some Notable Custmers include:
 
 - Banco de Chile: where I helped to stabilize a large public facing infrastructure running Oracle’s Exa systems.
 - Facebook: I helped with Facebook's internal identity management systems and security controls in an advisory capacity. 
@@ -124,7 +124,7 @@ mission critical TSA implementation.
 - New York State/ Department of Education: Implemented an initial deployment of NYCDOE Federated authentication system with Oracle OIF.
 - State of Hawaii: Designed and deployed the IDM infrastructure for state healthcare exchange. FDIC: Federal Deposit Insurance Corporation: Implemented SAML token across the enterprise using ADFS (AD Federation Services) in both web applications and web services --using OAM, OSTS (Oracle Secure Token Service) and OWSM (Oracle Web Service Management).
 
-###  Pre Oracle Experience
+##  Pre Oracle Experience
 - **Siebel/Oracle ITO Consultant**
 10/2004 – 05/2006 Hewlett & Packard Company (HP), Colorado Springs
 - **Colorado Senior Analyst/Developer**
@@ -140,7 +140,7 @@ mission critical TSA implementation.
 - **Student Trainee**
 1992-1993 Indian Space Research Organization: ISRO,Kerala,India
 
-###  Education
+##  Education
 - **University of Kerala**
 6/1989 - 9/1993 Computer Science and Engineering, Trivandrum, KERALA, Bachelor’s Degree
 - **University of Colorado, Denver**
