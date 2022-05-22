@@ -53,6 +53,12 @@ Some Cloud Technologies I have professionally worked on:
 My experience in Oracle was diverse and intense. Working mostly on Executive Escalations, I have worked this a significant number of World's largest IT 
 installations.
 
+- Cloud and Private Cloud Architectures
+- Security 
+- Identity Maagement and Governance
+- OnPremise Enterprise middleware experience
+- On Premise CRM/ERP Applications
+
 
 
 
