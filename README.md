@@ -52,21 +52,22 @@ Some Cloud Technologies I have professionally worked on:
 ###  Oracle: Technical Architect
 
 ###  Pre Oracle Experience
-Siebel/Oracle ITO Consultant
+**Siebel/Oracle ITO Consultant**
 10/2004 – 05/2006 Hewlett & Packard Company (HP), Colorado Springs, Colorado Senior Analyst/Developer
 9/2003 - 10/2004 Echostar Communications, Englewood, Colorado
-Siebel Configurator/Developer/DBA
+**Siebel Configurator/Developer/DBA**
 11/2001 - 9/2003 Acro Corp/Ford Motor Company, Dearborn,Michigan Oracle/Peoplesoft DBA
 10/2000 - 11/2001 Enwin Utilities,Windsor,Canada
-Siebel Configurator/Developer/DBA
+**Siebel Configurator/Developer/DBA**
 5/1997 - 10/2000 Acro Corp/Ford Motor Company,Dearborn,Michigan Systems Engineer
 9/1993 - 4/1997 Larsen & Toubro, Fort Lee, New Jersey
-Student Trainee
+**Student Trainee**
 1992-1993 Indian Space Research Organization: ISRO,Kerala,India
+
 ###  Education
-University of Kerala
+**University of Kerala**
 6/1989 - 9/1993 Computer Science and Engineering, Trivandrum, KERALA, Bachelor’s Degree
-University of Colorado, Denver
+**University of Colorado, Denver**
 2005-2011 Master's in Business Administration (MBA with special focus on Enterprise Technology Management)
 
 
