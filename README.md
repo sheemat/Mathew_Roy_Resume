@@ -100,30 +100,29 @@ These include
 - AWS API Gateway, Serverless, AWS Directory
 - Big Data Processing using Apache Spark and Python
 
+Some Notable Custmers include:
 
-
-Banco de Chile: where I helped to stabilize a large public facing infrastructure running Oracle’s Exa systems.
-Facebook: I helped with Facebook's internal identity management systems and security controls in an advisory capacity. 
+- Banco de Chile: where I helped to stabilize a large public facing infrastructure running Oracle’s Exa systems.
+- Facebook: I helped with Facebook's internal identity management systems and security controls in an advisory capacity. 
 Also I am helping Facebook’s implementation of Oracle’s SAAS applications.
-Orange Espana: Where I helped to deploy a large Federation framework based on Oracle Access/Identity Technologies
-BC Ferries: I helped to rescue the BC Ferries MDM project by stabilizing the CRM and ESB systems.
-Center for Medicare and Medicaid: I architected and helped to implement identity management systems for one of 
+- Orange Espana: Where I helped to deploy a large Federation framework based on Oracle Access/Identity Technologies
+- BC Ferries: I helped to rescue the BC Ferries MDM project by stabilizing the CRM and ESB systems.
+- Center for Medicare and Medicaid: I architected and helped to implement identity management systems for one of 
 the largest ERP (Oracle EBS) implementations in the world.
-US Army: Worked with & helped US Army to move forward with some unusual but highly secure EAI configurations.
-US Air Force: Implemented certificate based authentication and SOA in one of the most secure networks in the world.
-Sandia Labs: Implemented identity and access management with Kerberos for a secure defense customer.
-Bell Helicopters: Implemented centralized database authentication for this prominent defense company.
-Comcast/NBC: Helped in implementation of centralized Database authentication and authorization for a large database customer.
-Exelon Systems: Reviewed and recommended some complex SOA patterns at this large energy provider.
-Federal Health Exchange (Center for Medicare & Medicaid): Oracle Corporation dispatched a team of IDM experts to the site with the 
+- US Army: Worked with & helped US Army to move forward with some unusual but highly secure EAI configurations.
+- US Air Force: Implemented certificate based authentication and SOA in one of the most secure networks in the world.
+- Sandia Labs: Implemented identity and access management with Kerberos for a secure defense customer.
+- Bell Helicopters: Implemented centralized database authentication for this prominent defense company.
+- Comcast/NBC: Helped in implementation of centralized Database authentication and authorization for a large database customer.
+- Exelon Systems: Reviewed and recommended some complex SOA patterns at this large energy provider.
+- Federal Health Exchange (Center for Medicare & Medicaid): Oracle Corporation dispatched a team of IDM experts to the site with the 
 mission to recover and stabilize the Oracle components (OIM11G, OAM11G, OID, OUD and OVD) involved in the website. I was a major contributor to this effort.
-Hertz Corporation: I architected and implemented SSO using OAM and OID, with AD integration for the Hertz Oracle ERP solution including HA (High Availability) deployment.
-SFDC (Sales Force Dot Com) : Led a scalable, secure , HA deployment of OAM/OID at the cloud application provider.
-TSA (Border Patrol): Helped the Border Patrol implementation with OIM design and architecture.Helped to review and design the SOA architecture at a 
+- Hertz Corporation: I architected and implemented SSO using OAM and OID, with AD integration for the Hertz Oracle ERP solution including HA (High Availability) deployment.
+- SFDC (Sales Force Dot Com) : Led a scalable, secure , HA deployment of OAM/OID at the cloud application provider.
+- TSA (Border Patrol): Helped the Border Patrol implementation with OIM design and architecture.Helped to review and design the SOA architecture at a 
 mission critical TSA implementation.
-New York State/ Department of Education: Implemented an initial deployment of NYCDOE Federated authentication system with Oracle OIF.
-State of Hawaii: Designed and deployed the IDM infrastructure for state healthcare exchange. FDIC: Federal Deposit Insurance Corporation: Implemented SAML token across the 
-enterprise using ADFS (AD Federation Services) in both web applications and web services --using OAM, OSTS (Oracle Secure Token Service) and OWSM (Oracle Web Service Management).
+- New York State/ Department of Education: Implemented an initial deployment of NYCDOE Federated authentication system with Oracle OIF.
+- State of Hawaii: Designed and deployed the IDM infrastructure for state healthcare exchange. FDIC: Federal Deposit Insurance Corporation: Implemented SAML token across the enterprise using ADFS (AD Federation Services) in both web applications and web services --using OAM, OSTS (Oracle Secure Token Service) and OWSM (Oracle Web Service Management).
 
 ###  Pre Oracle Experience
 - **Siebel/Oracle ITO Consultant**
