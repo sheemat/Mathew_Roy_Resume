@@ -26,16 +26,16 @@
 
    ###  Department of Energy/Contract
       I helped Department of Energy to do a Google Cloud Operationalization effort; Presently this involves
-            1. Addressing issues relevant to FEDRAMP certification
-            2. OneId integration(SAML/OpenID Connect Integration)
-            3. GCP automation using Terraform & ServiceNow
-            4. Access Context Manager & IAP
-            5. Establishment of Secure Enclaves ( Landing pages)
-            6. Organizational Policies
-            7. ML and Data ( BigQuery and Vertex AI)
-            8. CI/CD: Cloud Build,Artifact repository, Terraform, Cloud Run
-            9. Kubernetes: GKE Public and Private Clusters , Binary Authorization and container
-            10. VPN and DX InterConnects
+            - Addressing issues relevant to FEDRAMP certification
+            - OneId integration(SAML/OpenID Connect Integration)
+            - GCP automation using Terraform & ServiceNow
+            - Access Context Manager & IAP
+            - Establishment of Secure Enclaves ( Landing pages)
+            - Organizational Policies
+            - ML and Data ( BigQuery and Vertex AI)
+            - CI/CD: Cloud Build,Artifact repository, Terraform, Cloud Run
+            - Kubernetes: GKE Public and Private Clusters , Binary Authorization and container
+            - VPN and DX InterConnects
 
    
    ###  KPMG Manager/Cloud Security Architect
