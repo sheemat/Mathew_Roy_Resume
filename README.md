@@ -79,26 +79,28 @@ other life cycle functions of the OIG12C product.
 I have worked on most other products in the IDM suite such as OIM/OAM 11G OIF 11G, OPAM, DIP , OAAM and OWSM.
 
 # Oracle FMW Integration Technologies
-            I am an expert in Oracle integration technologies such as SOA, OSB, MFT and ESS in 12C versions and below. I have also worked in Oracle API gateway, Integration cloud as well as Apiary. In various capacities, I have helped clients such as ServiceMaster Inc, AstraZeneca , Rogers Canada to design , architect and implement Oracle Products such as SOA Suite 10g,11g and 12c, OSB 12c and other weblogic based technologies. The engagement model depended on the client's needs but in most cases I would be the subject matter expert in the products involved, representing Oracle Corp. In most cases I will be instrumental in implementing complex product configurations where there is no established blueprint. 
+I am an expert in Oracle integration technologies such as SOA, OSB, MFT and ESS in 12C versions and below. I have also worked in Oracle API gateway, Integration cloud as well as Apiary. In various capacities, I have helped clients such as ServiceMaster Inc, AstraZeneca , Rogers Canada to design , architect and implement Oracle Products such as SOA Suite 10g,11g and 12c, OSB 12c and other weblogic based technologies. The engagement model depended on the client's needs but in most cases I would be the subject matter expert in the products involved, representing Oracle Corp. In most cases I will be instrumental in implementing complex product configurations where there is no established blueprint. 
 # Oracle Siebel CRM
 I have worked as one of the top experts in the world for many SIEBEL CRM technologies. I was part of an A team of Products experts inside Oracle in the SIEBEL CRM area. 
 # General Technologies
 Having worked in many aspects of an IT enterprise --including Solution Architect, DBA, Developer and a systems analyst, I have significant experience in tools of the trade. Moreover I am mature enough to understand which of these to use (or not use) in a given situation.
 These include
-● Oracle Database 7 to 12c, including extreme SQL tuning as well as DBA experience.
-● mySQL and MongoDB.
-● PL/SQL, Java, J2EE
-● Python,PHP,Perl,Javascript,Node.js, C# and .NET
-● Unix , Shell scripts, Linux
-● Android and various Mobile Technologies.
-● SQL Server and DB2(Unix and Mainframe)
-● Virtualization technologies including VMware.
-● Oracle Business Intelligence (OBIEE) HA and other deployment topologies.
-● Oracle Enterprise Manager 12C, specifically Fusion Middleware management packs.
-● Content Management Technologies such as Oracle Webcenter & Portal.
-● AWS Cloud Security, networking and databases
-● AWS API Gateway, Serverless, AWS Directory
-● Big Data Processing using Apache Spark and Python
+- Oracle Database 7 to 12c, including extreme SQL tuning as well as DBA experience.
+- mySQL and MongoDB.
+- PL/SQL, Java, J2EE
+- Python,PHP,Perl,Javascript,Node.js, C# and .NET
+- Unix , Shell scripts, Linux
+- Android and various Mobile Technologies.
+- SQL Server and DB2(Unix and Mainframe)
+- Virtualization technologies including VMware.
+- Oracle Business Intelligence (OBIEE) HA and other deployment topologies.
+- Oracle Enterprise Manager 12C, specifically Fusion Middleware management packs.
+- Content Management Technologies such as Oracle Webcenter & Portal.
+- AWS Cloud Security, networking and databases
+- AWS API Gateway, Serverless, AWS Directory
+- Big Data Processing using Apache Spark and Python
+
+
 
 Banco de Chile: where I helped to stabilize a large public facing infrastructure running Oracle’s Exa systems.
 Facebook: I helped with Facebook's internal identity management systems and security controls in an advisory capacity. 
@@ -144,6 +146,3 @@ enterprise using ADFS (AD Federation Services) in both web applications and web 
 6/1989 - 9/1993 Computer Science and Engineering, Trivandrum, KERALA, Bachelor’s Degree
 - **University of Colorado, Denver**
 2005-2011 Master's in Business Administration (MBA with special focus on Enterprise Technology Management)
-
-
-
