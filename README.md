@@ -17,13 +17,13 @@ and databases. I strive to be a multi cloud architect with professional experien
 - Google Cloud **Professional Security** Engineer
 - (Working on Google Data and ML certifications)
 
-###  Oracle/Contract 05/2021- OnGoing
+###  Oracle/Contract 05/2021- On Going
 The effort is to launch an extremely secure private cloud hosted in a GovCloud region(s). This include 
 providing everything in private networks including container orchestration, compute instance as well as
 serverless services. Every aspect of traditional Cloud deloyment is being challenged with absolute commitment 
 to security.  
 
-###  Department of Energy/Contract 04/2021- OnGoing
+###  Department of Energy/Contract 04/2021- On Going
 I helped Department of Energy to do a Google Cloud Operationalization effort; Presently this involves
 - Addressing issues relevant to FEDRAMP certification
 - OneId integration(SAML/OpenID Connect Integration)
@@ -35,7 +35,7 @@ I helped Department of Energy to do a Google Cloud Operationalization effort; Pr
 - CI/CD: Cloud Build,Artifact repository, Terraform, Cloud Run
 - Kubernetes: GKE Public and Private Clusters , Binary Authorization and container
 - VPN and DX InterConnects
--  
+
 ###  KPMG Manager/Cloud Security Architect 11/2021 - 05/2021
 
 I work with enterprise AWS,GCP and Azure customers , helping them to solve various security challenges. My portfolio involves the three major hyperscale cloud providers,Oracle Cloud, ServiceNow and SalesForce deployments. Most recently, I led a HITRUST/HIPAA assessment at Humana from AWS cloud focus. Our team analyzed a large enterprise scale AWS deployment with industry strength compliance and governance standards to understand the gaps in HITRUST/HIPAA coverage and suggested several recommendations.
@@ -100,7 +100,7 @@ These include
 - AWS API Gateway, Serverless, AWS Directory
 - Big Data Processing using Apache Spark and Python
 
-Some Notable Custmers include:
+# Some Notable Custmers include:
 
 - Banco de Chile: where I helped to stabilize a large public facing infrastructure running Oracle’s Exa systems.
 - Facebook: I helped with Facebook's internal identity management systems and security controls in an advisory capacity. 
